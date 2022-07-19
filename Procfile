@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* package edu.escuelaing.arsw.proyecto.App
+web: java -cp target/classes:target/dependency/* edu.escuelaing.arsw.proyecto.App
