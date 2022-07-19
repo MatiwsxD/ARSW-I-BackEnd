@@ -16,7 +16,7 @@ public class WebSocketTicTacToe implements WebSocketMessageBrokerConfigurer {
     }
     @Override
     public void registerStompEndpoints(StompEndpointRegistry registry) {
-        registry.addEndpoint("/tictactoe").setAllowedOriginPatterns("*").setAllowedOrigins().withSockJS();
+        registry.addEndpoint("/tictactoe").setAllowedOrigins("*").withSockJS();
 
     }
 
