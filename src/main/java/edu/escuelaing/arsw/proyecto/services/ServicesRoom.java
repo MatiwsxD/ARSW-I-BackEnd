@@ -48,7 +48,6 @@ public class ServicesRoom {
             rooms.put(sala,1);
             flag = true;
         }
-        System.out.println(rooms.toString());
         return flag;
     }
 
