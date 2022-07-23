@@ -88,4 +88,19 @@ Diagrama de componentes
 
 ## ![DiagramaComponentes](https://user-images.githubusercontent.com/42101956/180587895-cfc8afed-0710-43e7-ae16-2fae2541cdea.jpg)
 
+## Built con
 
+
+
+* [Maven](https://maven.apache.org/) - Dependency Management
+
+* [JAVA JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html) - construcción
+
+
+
+
+## Licencia
+
+
+
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
