@@ -3,9 +3,9 @@ Welcome to the Proyecto-ARSW-i wiki!
 # Tic-Taciting
 ## ✒️Autor ✒️
 * **Juan Mateo Mejia**
-## 🚀Link Heroku:🚀
+## 👾	Link Heroku:👾	
 ## https://matiwsxd.herokuapp.com/
-## 🚀Link del repositorio del front:🚀
+##👽Link del repositorio del front:👽
 ## https://github.com/MatiwsxD/ARSW-I-FrontEnd
 ## 🚀Resumen🚀
 
