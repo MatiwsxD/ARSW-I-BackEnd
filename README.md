@@ -5,7 +5,7 @@ Welcome to the Proyecto-ARSW-i wiki!
 * **Juan Mateo Mejia**
 ## 👾	Link Heroku:👾	
 ## https://matiwsxd.herokuapp.com/
-##👽Link del repositorio del front:👽
+## 👽Link del repositorio del front:👽
 ## https://github.com/MatiwsxD/ARSW-I-FrontEnd
 ## 🚀Resumen🚀
 
