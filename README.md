@@ -5,7 +5,8 @@ Welcome to the Proyecto-ARSW-i wiki!
 * **Juan Mateo Mejia**
 ## 🚀Link Heroku:🚀
 ## https://matiwsxd.herokuapp.com/
-
+## 🚀Link del repositorio del front:🚀
+## https://github.com/MatiwsxD/ARSW-I-FrontEnd
 ## 🚀Resumen🚀
 
 _Este juego es un proyecto de ARSW y esta basado en el clásico juego de 3 en línea o triqui, como lo conocemos. El objetivo de este proyecto era construir una API que permitiera jugar el juego de forma online y además de esto que permita a multiples usuarios jugar._
