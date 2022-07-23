@@ -78,11 +78,10 @@ La idea principal del juego es que los jugadores consigan hacer una lineal recta
 
 ## Diagrama de clases
 ![Clases](https://user-images.githubusercontent.com/42101956/180586593-5a00a1bc-8cdf-4411-9003-57c5ece1ee9a.jpg)
-![DiagramaComponentes](https://user-images.githubusercontent.com/42101956/180586594-ae11cc14-3cc8-4f8f-8ff3-5cd8c88dbfa5.jpg)
+
 
 
 ## Diagrama de componentes
 
-![DiagramaComponentes](https://user-images.githubusercontent.com/42101956/180586597-7d094872-aa93-46ea-8987-f7c149882dea.jpg)
 ![Clases](https://user-images.githubusercontent.com/42101956/180586598-4908ba56-ef1e-4609-838f-de164f2750b8.jpg)
 
