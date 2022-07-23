@@ -83,7 +83,8 @@ La idea principal del juego es que los jugadores consigan hacer una lineal recta
 
 
 
-## Diagrama de componentes
+Diagrama de componentes
 
-![Clases](https://user-images.githubusercontent.com/42101956/180586598-4908ba56-ef1e-4609-838f-de164f2750b8.jpg)
+## ![DiagramaComponentes](https://user-images.githubusercontent.com/42101956/180587895-cfc8afed-0710-43e7-ae16-2fae2541cdea.jpg)
+
 
