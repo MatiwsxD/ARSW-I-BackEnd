@@ -7,8 +7,16 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class ServicesLogin {
-   AutentificationLogin data = new AutentificationLogin();
-    public void registrarPlayer(String usuario,String correo ,String contraseña){
+    AutentificationLogin data = new AutentificationLogin();
+
+    /**
+     * This function creates a new user and insert in the database
+     * 
+     * @param usuario    The username
+     * @param correo     email
+     * @param contraseña password
+     */
+    public void registrarPlayer(String usuario, String correo, String contraseña) {
         User userProfile = new User();
         userProfile.setName(usuario);
         userProfile.setPassword(contraseña);
@@ -16,17 +24,36 @@ public class ServicesLogin {
         data.insertar(userProfile);
     }
 
-    public boolean estaRegistrado(String correo){
+    /**
+     * This function returns true if the email is registered in the database, false
+     * otherwise.
+     * 
+     * @param correo email
+     * @return A boolean value.
+     */
+    public boolean estaRegistrado(String correo) {
         return data.isRegister(correo);
     }
 
-
-
-    public boolean loginPlayer(String correo, String contraseña){
+    /**
+     * The function loginPlayer() takes two strings as parameters, and returns a
+     * boolean
+     * 
+     * @param correo     email
+     * @param contraseña password
+     * @return A boolean value.
+     */
+    public boolean loginPlayer(String correo, String contraseña) {
         return data.getUserLogin(correo, contraseña);
     }
 
-    public User getUser(String usuario){
+    /**
+     * This function returns a user from the database.
+     * 
+     * @param usuario the username of the user
+     * @return The user object.
+     */
+    public User getUser(String usuario) {
         return data.getUser(usuario);
     }
 
